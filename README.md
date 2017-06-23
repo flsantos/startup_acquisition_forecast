@@ -12,7 +12,7 @@ Instructions
 
 Dependencies
 -------
-
-Scikit-Learn
+Python 2.7
+Scikit-Learn and its dependencies (numpy, pandas, etc..)
 https://github.com/scikit-learn-contrib/imbalanced-learn
 https://github.com/dmlc/xgboost (optional)
