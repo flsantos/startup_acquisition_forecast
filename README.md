@@ -1,6 +1,10 @@
 Forecasting Startup's Acquisition from Crunchbase data
 =============
 
+Project Report
+-------
+* Project report is available in [here](report/ML_Capstone_Report.pdf)
+
 Instructions
 -------
 
@@ -12,7 +16,8 @@ Instructions
 
 Dependencies
 -------
-Python 2.7
-Scikit-Learn and its dependencies (numpy, pandas, etc..)
-https://github.com/scikit-learn-contrib/imbalanced-learn
-https://github.com/dmlc/xgboost (optional)
+
+* Python 2.7
+* Scikit-Learn and its dependencies (numpy, pandas, etc..)
+* https://github.com/scikit-learn-contrib/imbalanced-learn
+* https://github.com/dmlc/xgboost (optional)
